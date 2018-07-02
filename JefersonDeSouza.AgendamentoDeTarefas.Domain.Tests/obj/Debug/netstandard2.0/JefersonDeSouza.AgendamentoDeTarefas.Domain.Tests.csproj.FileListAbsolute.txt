@@ -1,0 +1,8 @@
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests\bin\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests.deps.json
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests\bin\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests.dll
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests\bin\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests.pdb
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests\obj\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests\obj\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests.AssemblyInfoInputs.cache
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests\obj\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests.AssemblyInfo.cs
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests\obj\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests.dll
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests\obj\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.Tests.pdb

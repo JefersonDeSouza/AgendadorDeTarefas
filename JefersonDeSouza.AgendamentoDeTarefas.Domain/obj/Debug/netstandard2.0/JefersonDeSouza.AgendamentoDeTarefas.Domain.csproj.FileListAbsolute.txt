@@ -1,0 +1,8 @@
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain\bin\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.deps.json
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain\bin\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.dll
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain\bin\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.pdb
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain\obj\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain\obj\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.AssemblyInfoInputs.cache
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain\obj\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.AssemblyInfo.cs
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain\obj\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.dll
+C:\Users\sj0077\RiderProjects\JefersonDeSouza.AgendamentoDeTarefas\JefersonDeSouza.AgendamentoDeTarefas.Domain\obj\Debug\netstandard2.0\JefersonDeSouza.AgendamentoDeTarefas.Domain.pdb
